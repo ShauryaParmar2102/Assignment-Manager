@@ -23,8 +23,14 @@ Keep track of your tasks, mark them as completed, edit or delete them, and never
 
 You can get the project files directly from GitHub:
 
-Go to this repository on GitHub.
-Click the green Code button at the top right.
-Choose Download ZIP.
+1. Go to this repository on GitHub.
+
+2. Click the green Code button at the top right.
+
+3. Choose Download ZIP.
+
+4. Extract the ZIP (if you downloaded it) and open the folder.
+
+5. Open index.html in your browser to run the Assignment Manager.
 
 
