@@ -14,13 +14,17 @@ Keep track of your tasks, mark them as completed, edit or delete them, and never
 
 ---
 
-## **Demo Screenshot**
+## ** Screenshot**
 <img width="1916" height="982" alt="image" src="https://github.com/user-attachments/assets/0afafe29-7a6e-41f3-b91b-c01e31902786" />
-
 
 ---
 
-## **Usage**
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/assignment-manager.git
+## **💻 How to Download & Run **
+
+You can get the project files directly from GitHub:
+
+Go to this repository on GitHub.
+Click the green Code button at the top right.
+Choose Download ZIP.
+
+
