@@ -15,8 +15,8 @@ Keep track of your tasks, mark them as completed, edit or delete them, and never
 ---
 
 ## **Demo Screenshot**
-![Assignment Manager Screenshot](screenshot.png)  
-*Your screenshot here showing a pending and completed card*
+<img width="1916" height="982" alt="image" src="https://github.com/user-attachments/assets/0afafe29-7a6e-41f3-b91b-c01e31902786" />
+
 
 ---
 
