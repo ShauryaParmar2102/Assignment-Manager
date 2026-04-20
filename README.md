@@ -5,6 +5,16 @@ Keep track of your tasks, mark them as completed, edit or delete them, and never
 
 ---
 
+## 🧠 Tech Stack
+
+🌐 HTML
+
+🎨 CSS
+
+⚙️ JavaScript
+
+
+
 ## **Features**
 - Add new assignments 📝  
 - Mark assignments as **Pending** or **Completed** ✅  
